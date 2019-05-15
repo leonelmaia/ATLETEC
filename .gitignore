@@ -1,0 +1,9 @@
+/.metadata/
+.settings/
+Debug/
+RECEPTEC/
+COLETEC/
+.mxproject
+.project
+*.launch
+.code_review_properties
